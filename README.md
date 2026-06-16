@@ -54,3 +54,12 @@ The workflow relies on the following core components:
 
 **Agent:** 
 > The agent refuses and does not reveal internal instructions.
+
+
+## 3.System images
+
+<img src="https://github.com/user-attachments/assets/6e7bdd0a-def4-456e-bc2b-0028098675d6" />
+<img src="https://github.com/user-attachments/assets/40eb38e6-e584-4041-b555-572235bd444c" />
+<img src="https://github.com/user-attachments/assets/f03860f6-a857-423a-a34d-3dd24898c3d7" />
+<img src="https://github.com/user-attachments/assets/a11ae95e-6bd0-4347-acb0-9607788623a2" />
+
